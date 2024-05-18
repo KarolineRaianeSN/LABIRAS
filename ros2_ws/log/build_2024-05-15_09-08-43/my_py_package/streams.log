@@ -1,0 +1,42 @@
+[1.482s] Invoking command in '/home/karol/ros2_ws/src/my_py_package': PYTHONPATH=/home/karol/ros2_ws/build/my_py_package/prefix_override:/home/karol/ros2_ws/install/my_py_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_package build --build-base /home/karol/ros2_ws/build/my_py_package/build install --record /home/karol/ros2_ws/build/my_py_package/install.log --single-version-externally-managed install_data
+[1.764s] running egg_info
+[1.782s] writing ../../build/my_py_package/my_py_package.egg-info/PKG-INFO
+[1.783s] writing dependency_links to ../../build/my_py_package/my_py_package.egg-info/dependency_links.txt
+[1.784s] writing entry points to ../../build/my_py_package/my_py_package.egg-info/entry_points.txt
+[1.784s] writing requirements to ../../build/my_py_package/my_py_package.egg-info/requires.txt
+[1.784s] writing top-level names to ../../build/my_py_package/my_py_package.egg-info/top_level.txt
+[1.824s] reading manifest file '../../build/my_py_package/my_py_package.egg-info/SOURCES.txt'
+[1.825s] adding license file 'LICENSE'
+[1.827s] writing manifest file '../../build/my_py_package/my_py_package.egg-info/SOURCES.txt'
+[1.827s] running build
+[1.827s] running build_py
+[1.827s] copying my_py_package/add_two_ints_client_no_oop.py -> /home/karol/ros2_ws/build/my_py_package/build/lib/my_py_package
+[1.828s] copying my_py_package/my_first_node.py -> /home/karol/ros2_ws/build/my_py_package/build/lib/my_py_package
+[1.829s] copying my_py_package/robot_news_station.py -> /home/karol/ros2_ws/build/my_py_package/build/lib/my_py_package
+[1.829s] copying my_py_package/hw_status_publisher.py -> /home/karol/ros2_ws/build/my_py_package/build/lib/my_py_package
+[1.829s] copying my_py_package/add_two_ints_client.py -> /home/karol/ros2_ws/build/my_py_package/build/lib/my_py_package
+[1.830s] copying my_py_package/__init__.py -> /home/karol/ros2_ws/build/my_py_package/build/lib/my_py_package
+[1.830s] copying my_py_package/add_two_ints_server.py -> /home/karol/ros2_ws/build/my_py_package/build/lib/my_py_package
+[1.830s] copying my_py_package/smartphone.py -> /home/karol/ros2_ws/build/my_py_package/build/lib/my_py_package
+[1.831s] running install
+[1.841s] running install_lib
+[1.872s] running install_data
+[1.872s] copying resource/my_py_package -> /home/karol/ros2_ws/install/my_py_package/share/ament_index/resource_index/packages
+[1.872s] copying package.xml -> /home/karol/ros2_ws/install/my_py_package/share/my_py_package
+[1.873s] running install_egg_info
+[1.907s] removing '/home/karol/ros2_ws/install/my_py_package/lib/python3.10/site-packages/my_py_package-0.0.0-py3.10.egg-info' (and everything under it)
+[1.908s] Copying ../../build/my_py_package/my_py_package.egg-info to /home/karol/ros2_ws/install/my_py_package/lib/python3.10/site-packages/my_py_package-0.0.0-py3.10.egg-info
+[1.909s] running install_scripts
+[2.101s] Installing add_two_ints_client script to /home/karol/ros2_ws/install/my_py_package/lib/my_py_package
+[2.101s] Installing add_two_ints_client_no_oop script to /home/karol/ros2_ws/install/my_py_package/lib/my_py_package
+[2.101s] Installing add_two_ints_server script to /home/karol/ros2_ws/install/my_py_package/lib/my_py_package
+[2.101s] Installing battery script to /home/karol/ros2_ws/install/my_py_package/lib/my_py_package
+[2.102s] Installing hw_status_publisher script to /home/karol/ros2_ws/install/my_py_package/lib/my_py_package
+[2.102s] Installing led_panel script to /home/karol/ros2_ws/install/my_py_package/lib/my_py_package
+[2.102s] Installing number_counter script to /home/karol/ros2_ws/install/my_py_package/lib/my_py_package
+[2.102s] Installing number_publisher script to /home/karol/ros2_ws/install/my_py_package/lib/my_py_package
+[2.103s] Installing py_node script to /home/karol/ros2_ws/install/my_py_package/lib/my_py_package
+[2.103s] Installing robot_news_station script to /home/karol/ros2_ws/install/my_py_package/lib/my_py_package
+[2.103s] Installing smartphone script to /home/karol/ros2_ws/install/my_py_package/lib/my_py_package
+[2.103s] writing list of installed files to '/home/karol/ros2_ws/build/my_py_package/install.log'
+[2.172s] Invoked command in '/home/karol/ros2_ws/src/my_py_package' returned '0': PYTHONPATH=/home/karol/ros2_ws/build/my_py_package/prefix_override:/home/karol/ros2_ws/install/my_py_package/lib/python3.10/site-packages:${PYTHONPATH} ROS_DOMAIN_ID=90 /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_package build --build-base /home/karol/ros2_ws/build/my_py_package/build install --record /home/karol/ros2_ws/build/my_py_package/install.log --single-version-externally-managed install_data

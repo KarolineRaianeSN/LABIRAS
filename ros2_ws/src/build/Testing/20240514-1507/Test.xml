@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240514-1507-Experimental"
+	Name="karoline-raiane"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="karoline-raiane"
+	OSRelease="6.5.0-28-generic"
+	OSVersion="#29~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Apr  4 14:39:20 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="126"
+	ProcessorCacheSize="4096"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="4263"
+	TotalPhysicalMemory="3650"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3400"
+	>
+	<Testing>
+		<StartDateTime>May 14 12:25 -03</StartDateTime>
+		<StartTestTime>1715700301</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 14 12:25 -03</EndDateTime>
+		<EndTestTime>1715700301</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
